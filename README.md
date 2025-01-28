@@ -17,7 +17,7 @@ Project link: [link](https://jeffcai0502.github.io/workshop-task-1/)
 - Loop function
 - Turn combined shapes into a function
 - Learn random positions and heights/size
-- Experimenting with the odd and even for changing the colour
+- Make a drawing
 
 ## Workshop Notes
 - Main 5 founding priciples :
