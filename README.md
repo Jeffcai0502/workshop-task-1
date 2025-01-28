@@ -59,7 +59,7 @@ Using one loop two draw two different types of rectangles together to make a sim
 <img width="1016" alt="截屏2025-01-28 上午9 34 18" src="https://github.com/user-attachments/assets/251e4f24-b8b4-4310-986a-9d398df35435" />
 Experimented with geometry and random.
 <img width="1135" alt="截屏2025-01-28 上午10 11 01" src="https://github.com/user-attachments/assets/7304caeb-037e-4a52-8c7e-c0d82cf30007" />
-Made a "house" under the rainy night.
+Made a "house" under the rainy night. The house is a bit different everytime that you opened it.
 <img width="1183" alt="截屏2025-01-28 上午10 14 09" src="https://github.com/user-attachments/assets/5c2bdf25-b88f-4b78-a16e-79ac49fea236" />
 
 ## New Thing Learnt From p5 Documentation 
