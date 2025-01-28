@@ -55,7 +55,7 @@ Adding random to the variables, left and right first(x axies).
 
 More variables are determined by random.
 <img width="1016" alt="截屏2025-01-28 上午8 41 45" src="https://github.com/user-attachments/assets/977af1d7-74e6-4adc-8ee4-1f7a5efac607" />
-Using one loop two draw two different types of rectangles together to make a simple rain with puddels drawing that continues to change.
+Using one loop two draw two different types of rectangles together to make a simple semi-transparent rain with puddels drawing that continues to change.
 <img width="1016" alt="截屏2025-01-28 上午9 34 18" src="https://github.com/user-attachments/assets/251e4f24-b8b4-4310-986a-9d398df35435" />
 Experimented with geometry and random.
 <img width="1135" alt="截屏2025-01-28 上午10 11 01" src="https://github.com/user-attachments/assets/7304caeb-037e-4a52-8c7e-c0d82cf30007" />
